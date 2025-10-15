@@ -1,4 +1,4 @@
-# Pet Heaven Website
+# Pet Heaven Website (latest changes)
 
 This is a pets ownership transfer website built with React.js, Typescript and Tailwind CSS. It shows the pets which are being given away by their owners. Website also provide option for new customers to give away or adopt a pet.
 
